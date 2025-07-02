@@ -23,6 +23,13 @@
 |      |          |  15 | v0.1.1    |                | Bugfixes & QoL                   |                                | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/851385/v011-bugfixes-qol) |
 |      |          |  15 | v0.1.2    |                | Gamebreaking bugfix              | [Play Online](v?0.1/v0.1.2)    | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/851456/v012-gamebreaking-bugfix) |
 | | | | | |
+| 2025 | January  |   9 | v0.2.0    | **Chapter 1**  |                                  | [Play Online](v?0.2/v0.2.0)    | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/864566/v020-chapter-1-major-content-update) |
+|      |          |     | v0.2.1    |                | Hotfix                           | [Play Online](v?0.2/v0.2.1)    | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/865891/v021-hotfix) |
+|      |          |  10 | v0.2.2    |                | Shortcuts & Bugfixes             | [Play Online](v?0.2/v0.2.2)    | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/866235/v022-shortcuts-bugfixes) |
+|      |          |     | v0.2.4    |                | Hotfix                           | [Play Online](v?0.2/v0.2.4)    | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/866305/v024-hotfix) |
+|      |          |  18 | v0.2.6    |                | (Proper) Tidy Up                 |                                | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/870558/v026-proper-tidy-up), [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1330195036045836359) |
+|      |          |  23 | v0.2.6.5  |                | Hotfix                           | [Play Online](v?0.2/v0.2.6.5)  | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/873292/v0265-hotfix), [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1331960278040055941) |
+| | | | | |
 |      |          |     |           |                |                            | **[itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
 
 
