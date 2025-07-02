@@ -17,9 +17,16 @@
 
 **Please note the latest playable version will only be found at [itch.io](https://sh4dowsand.itch.io/terraformental), [galaxy.click](https://galaxy.click/play/490), and [Github](https://sh4dowsand.github.io/Terraformental/).**
 
-| Year | Month    | Day | Version   | Description    |                            | Play                    | Devlog |
-| :--- | :------- | --: | :-------- | :--------------| :------------------------- | :---------------------- | :----- |
+| Year | Month    | Day | Version   | Description    |                                  | Play                           | Devlog |
+| :--- | :------- | --: | :-------- | :--------------| :------------------------------- | :----------------------------- | :----- |
+| 2024 | December |  13 | v0.1.0    | **Initial**    |                                  | [Play Online](v?0.1/v0.1.0)    |
+|      |          |  15 | v0.1.1    |                | Bugfixes & QoL                   |                                | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/851385/v011-bugfixes-qol) |
+|      |          |  15 | v0.1.2    |                | Gamebreaking bugfix              | [Play Online](v?0.1/v0.1.2)    | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/851456/v012-gamebreaking-bugfix) |
+| | | | | |
 |      |          |     |           |                |                            | **[itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
+
+
+
 
 <div style="position: fixed; top: 0px; left: 0px; right: 0px; border: 1px dashed #555555; background: cadetblue; padding: 20px; text-align: center;"><b>Please note the latest playable version will only be found at <a href="https://sh4dowsand.itch.io/terraformental" target="blank">itch.io</a>, <a href="https://galaxy.click/play/490" target="blank">galaxy.click</a>, <a href="https://sh4dowsand.github.io/Terraformental/" target="blank">Github</a>.</b></div>
 <script>setTimeout(()=>document.querySelectorAll('a').forEach(e=>e.setAttribute('target','blank')),500);</script>
