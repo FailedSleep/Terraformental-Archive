@@ -14,7 +14,7 @@ Older versions archive for the fantastic game [Terraformental](https://sh4dowsan
 ## External Links
 
 - Latest version:    [itch.io](https://sh4dowsand.itch.io/terraformental), [galaxy.click](https://galaxy.click/play/490), [Github](https://sh4dowsand.github.io/Terraformental/)
-- Archived versions: [.github.io/TerraformentalArchive](https://failedsleep.github.io/Terraformental-Archive/)
+- Archived versions: [.github.io/Terraformental-Archive](https://failedsleep.github.io/Terraformental-Archive/)
 
 - Discord Server:    [Shady Games](https://discord.gg/nMqMxKw6Y5)
 - Roadmap:           [trello.com](https://trello.com/b/qnVuWqCG/terraformental-roadmap)
