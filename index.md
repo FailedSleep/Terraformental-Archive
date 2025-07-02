@@ -30,6 +30,10 @@
 |      |          |  18 | v0.2.6    |                | (Proper) Tidy Up                 |                                | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/870558/v026-proper-tidy-up), [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1330195036045836359) |
 |      |          |  23 | v0.2.6.5  |                | Hotfix                           | [Play Online](v?0.2/v0.2.6.5)  | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/873292/v0265-hotfix), [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1331960278040055941) |
 | | | | | |
+|      | March    |  14 | v0.3.0.16 | **Santorini**  |                                  | [Play Online](v?0.3/v0.3.0.16) | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/905290/v030-santorini-major-content-update), [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1352230548051066900) |
+|      |          |  23 | v0.3.1    |                | Bugfixes & Minor Additions       |                                | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/910784/v031-bugfixes-minor-additions), [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1353390250470412371) |
+|      |          |  23 | v0.3.1.1  |                | Bugfixes & Minor Additions       | [Play Online](v?0.3/v0.3.1.1)  | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1353453364129562684) |
+| | | | | |
 |      |          |     |           |                |                            | **[itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
 
 
