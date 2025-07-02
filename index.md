@@ -36,6 +36,7 @@
 | | | | | |
 |      | June     |  27 | v0.4.0.26 | **Astrape**    |                                  | [Play Online](v?0.4/v0.4.0.26) | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/974739/v040-astrape-major-content-update), [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1388121442352369695) |
 |      |          |  28 | v0.4.0.27 |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.0.27) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1388551643011743867) |
+|      |          |  30 | v0.4.0.28 |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.0.28) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1389271646765842452) |
 |      |          |     |           |                |                            | **[itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
 
 
