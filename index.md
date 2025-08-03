@@ -38,6 +38,8 @@
 |      |          |  28 | v0.4.0.27 |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.0.27) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1388551643011743867) |
 |      |          |  30 | v0.4.0.28 |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.0.28) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1389271646765842452) |
 |      | July     |   1 | v0.4.0.29 |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.0.29) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1389630900526120980) |
+|      |          |  20 | v0.4.1.3  |                | Bugfixes & Minor Additions       |                                | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1396427039266967685) |
+|      |          |  21 | v0.4.1.4  |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.1.4)  | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1396759169704525925) |
 |      |          |     |           |                |                            | **[itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
 
 
