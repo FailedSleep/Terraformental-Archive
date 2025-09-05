@@ -13,6 +13,7 @@ Older versions archive for the fantastic game [Terraformental](https://sh4dowsan
 
 ## External Links
 
+- Steam Page:        [steam:Terraformental](https://store.steampowered.com/app/3762790/Terraformental/)
 - Latest version:    [itch.io](https://sh4dowsand.itch.io/terraformental), [galaxy.click](https://galaxy.click/play/490), [Github](https://sh4dowsand.github.io/Terraformental/)
 - Archived versions: [.github.io/Terraformental-Archive](https://failedsleep.github.io/Terraformental-Archive/)
 
