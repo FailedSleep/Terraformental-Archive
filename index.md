@@ -42,6 +42,9 @@
 |      |          |  21 | v0.4.1.4    |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.1.4)  | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1396759169704525925) |
 |      | Aug      |   2 | v0.4.1.6    |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.1.6)  | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1401225227324624916) |
 |      | Sep      |   4 | v0.4.1.11   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.1.11) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1413191247526498474) |
+|      | Oct      |   2 | v0.4.5.8    |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.8)  | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423291206842060842) |
+|      |          |   2 | v0.4.5.9    |                | Bugfixes & Minor Additions       | | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423395794307907605) |
+|      |          |   3 | v0.4.5.10   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.10) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423751267964162209) |
 |      |          |     | **Current** |                | **Newest Version**               | **[itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
 
 
