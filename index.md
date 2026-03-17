@@ -45,9 +45,10 @@
 |      | Oct      |   2 | v0.4.5.8    |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.8)  | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423291206842060842) |
 |      |          |   2 | v0.4.5.9    |                | Bugfixes & Minor Additions       | | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423395794307907605) |
 |      |          |   3 | v0.4.5.10   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.10) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423751267964162209) |
-|      |          |   5 | v0.4.5.12   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.12) | |
-|      |          |   8 | v0.4.5.16   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.16) | |
-|      |          |  24 | v0.4.5.18   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.18) | |
+|      |          |   5 | v0.4.5.12   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.12) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1424376118236151838) |
+|      |          |   8 | v0.4.5.16   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.16) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1425518290083516586) |
+|      |          |  24 | v0.4.5.18   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.18) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1431257298134634526) |
+| 2026 | Feb      |  10 | v0.5.0.30   |                | Bugfixes & Minor Additions       | [Play Online](v?0.5/v0.5.0.30) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1470865295512961116) |
 |      |          |     | **Current** |                | **Newest Version**               | **[steam:Terraformental](https://store.steampowered.com/app/3762790/Terraformental/), [itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
 
 
