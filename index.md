@@ -7,7 +7,7 @@
 
 ## External Links
 
-- Latest version: [itch.io](https://sh4dowsand.itch.io/terraformental), [galaxy.click](https://galaxy.click/play/490), [Github](https://sh4dowsand.github.io/Terraformental/)
+- Latest version: [steam:Terraformental](https://store.steampowered.com/app/3762790/Terraformental/), [itch.io](https://sh4dowsand.itch.io/terraformental), [galaxy.click](https://galaxy.click/play/490), [Github](https://sh4dowsand.github.io/Terraformental/)
 
 - Discord Server: [Shady Games](https://discord.gg/nMqMxKw6Y5)
 - Roadmap: [trello.com](https://trello.com/b/qnVuWqCG/terraformental-roadmap)
@@ -45,7 +45,10 @@
 |      | Oct      |   2 | v0.4.5.8    |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.8)  | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423291206842060842) |
 |      |          |   2 | v0.4.5.9    |                | Bugfixes & Minor Additions       | | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423395794307907605) |
 |      |          |   3 | v0.4.5.10   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.10) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1423751267964162209) |
-|      |          |     | **Current** |                | **Newest Version**               | **[itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
+|      |          |   5 | v0.4.5.12   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.12) | |
+|      |          |   8 | v0.4.5.16   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.16) | |
+|      |          |  24 | v0.4.5.18   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.18) | |
+|      |          |     | **Current** |                | **Newest Version**               | **[steam:Terraformental](https://store.steampowered.com/app/3762790/Terraformental/), [itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
 
 
 
