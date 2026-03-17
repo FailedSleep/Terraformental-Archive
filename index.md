@@ -48,9 +48,10 @@
 |      |          |   5 | v0.4.5.12   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.12) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1424376118236151838) |
 |      |          |   8 | v0.4.5.16   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.16) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1425518290083516586) |
 |      |          |  24 | v0.4.5.18   |                | Bugfixes & Minor Additions       | [Play Online](v?0.4/v0.4.5.18) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1431257298134634526) |
-| 2026 | Feb      |  10 | v0.5.0.30   |                | Bugfixes & Minor Additions       | [Play Online](v?0.5/v0.5.0.30) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1470865295512961116) |
+| | | | | |
+| 2026 | Feb      |  10 | v0.5.0.30   | **Strabo**     |                                  | [Play Online](v?0.4/v0.4.0.26) | [itch.io](https://sh4dowsand.itch.io/terraformental/devlog/974739/v040-astrape-major-content-update), [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1466100635702137065) |
+|      |          |  10 | v0.5.0.30   |                | Bugfixes & Minor Additions       | [Play Online](v?0.5/v0.5.0.30) | [discord](https://discord.com/channels/1328326848844791840/1328361205961592874/1470865295512961116) |
 |      |          |     | **Current** |                | **Newest Version**               | **[steam:Terraformental](https://store.steampowered.com/app/3762790/Terraformental/), [itch.io](https://sh4dowsand.itch.io/terraformental)<br>[galaxy.click](https://galaxy.click/play/490)<br>[Github](https://sh4dowsand.github.io/Terraformental/)** |
-
 
 
 
