@@ -55,5 +55,6 @@
 
 
 
+
 <div style="position: fixed; top: 0px; left: 0px; right: 0px; border: 1px dashed #555555; background: cadetblue; padding: 20px; text-align: center;"><b>Please note the latest playable version will only be found at <a href="https://sh4dowsand.itch.io/terraformental" target="blank">itch.io</a>, <a href="https://galaxy.click/play/490" target="blank">galaxy.click</a>, <a href="https://sh4dowsand.github.io/Terraformental/" target="blank">Github</a>.</b></div>
 <script>setTimeout(()=>document.querySelectorAll('a').forEach(e=>e.setAttribute('target','blank')),500);</script>
